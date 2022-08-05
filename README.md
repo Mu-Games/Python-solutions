@@ -6,4 +6,4 @@ During the competition, students would write code in their own IDE and send thei
 The correspoding website can be found at https://clover.science.uu.nl/.
 
 ## This Github project.
-This Githubb project contains the solutions for all the Mu-Games projects discussed in the corresponding article. For every problem, we have given the solution in a pdf file, along with the corresponding Python solution in a .py file. To test the code given, we have included five testcases for every problem. One can also use these testcases to test your one solutions.
+This Github project contains the solutions for all the Mu-Games projects discussed in the corresponding article. For every problem, we have given the solution in a pdf file, along with the corresponding Python solution in a .py file. To test the code given, we have included five testcases for every problem. One can also use these testcases to test your one solutions.
